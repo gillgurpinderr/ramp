@@ -8,7 +8,7 @@ The bugs **do not depend on each other**, so you can solve them independently.
 
 You will submit a CodeSandbox link with your response.
 
-### Prerequisites
+### Prerequisite
 
 - `node`
 - `npm` or `yarn`
